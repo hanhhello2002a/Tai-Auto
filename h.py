@@ -46,7 +46,7 @@ def get_youtube_service():
 
 
 # URL của file .env trên GitHub (thay URL của bạn vào đây)
-GITHUB_ENV_URL = "https://raw.githubusercontent.com/hanhhello2002a/Tai-Auto/main/.env"
+GITHUB_ENV_URL = "https://raw.githubusercontent.com/hanhhello2002a/Tai-Auto/main/h.env"
 
 def load_env_from_github(url):
     try:
